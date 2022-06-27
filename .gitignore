@@ -1,0 +1,8 @@
+
+*.vsidx
+
+*.lock
+
+.vs/ecopax_schedule_comparison/v17/.suo
+
+*.pyc
