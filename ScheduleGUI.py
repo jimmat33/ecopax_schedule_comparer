@@ -1,7 +1,6 @@
-from openpyxl import *
+from openpyxl import load_workbook
 import string
 import tkinter as tk
-from tkinter import *
 import tkinter.font
 import os
 from tkinter.tix import Select
